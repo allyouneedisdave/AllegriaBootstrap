@@ -29,27 +29,30 @@ img {
 
 .aboveNav {
 	width: 200px !important;
-	margin-bottom: 12px;
+	margin-bottom: 10px;
 	margin-left: 50px;
+
 }
 .belowNav {
 	width: 200px !important;
-	margin-top: 10px;
+	margin-top: 8px;
 	margin-left: 50px;
 }
 .insideNavLogo {
-	width: 175px;
-	margin-left: 50px;
+	width: 210px;
+	margin-left: 38px;
 	
 }
+
 body .navbarBespoke {
-	background-color: #4c4c4c !important;
+	background-color: #333333 !important;
 	height: 70px !important;
 }
 body .navbarBespoke .container {
 	height: 100% !important;
-	margin-left: 0;
-	margin-right: 0;
+	width: 100% !important;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
 }
 
 header { 
